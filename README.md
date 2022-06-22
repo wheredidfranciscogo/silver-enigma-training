@@ -1,7 +1,7 @@
 # silver-enigma-training
 Go Basics and Beyond 🚀
 
-Simple and straightforward videos to learn Go from basics and beyond 🌏
+Simple and straightforward videos to learn basic Go and beyond 🌏
 
 <!-- This areas would be updated at some point -->
 Links you may want to have a look:
